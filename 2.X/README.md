@@ -2,7 +2,7 @@
 
 Chevereto V2 started to took things seriously by introducing a new user interface.
 
-In this version Chevereto added more views, languages and a file manager.
+In this version Chevereto added more views and a file manager.
 
 ![Home](../src/2.X/home.jpg "Home")
 
