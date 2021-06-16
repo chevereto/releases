@@ -1,4 +1,4 @@
-# Chevereto 1.X
+# Release 1.X
 
 Chevereto V1 was a simple one-click image hosting software. It introduced local and URL uploads plus resizing. It was a very simple system.
 
