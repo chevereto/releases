@@ -2,9 +2,11 @@
 
 Chevereto V1 was a simple one-click image hosting software. It introduced local and URL uploads plus resizing. It was a very simple system.
 
-This version proved that using your existing servers for self-host your hot-linked images was a feasible option.
+This version was a PoC to prove that using your existing server for self-host your hot-linked images was a feasible option.
 
-## Releases
+![Godlike](../src/1.X/godlike.jpg "Godlike")
+
+## Nightly builds
 
 Chevereto 1.X was available only as nightly builds and it didn't follow any versioning system. It also didn't include any release notes.
 
