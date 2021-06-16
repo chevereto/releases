@@ -8,8 +8,4 @@ This release added mobile support, languages, lots of new features and defined t
 
 ![Explore](../src/3.X/explore.jpg "Explore")
 
-![Explore mobile](../src/3.X/explore-mobile.jpg "Explore mobile")
-
 ![Modal](../src/3.X/modal-listing.jpg "Modal")
-
-![Uploader mobile](../src/3.X/uploader-mobile.jpg "Uploader mobile")
