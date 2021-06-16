@@ -1,3 +1,8 @@
-# Chevereto Releases
-
-These are all the Chevereto releases made.
+---
+home: true
+heroImage: /logo.svg
+heroText: Chevereto Releases
+tagline: All Chevereto releases
+actionText: Latest →
+actionLink: /3.X/
+---
