@@ -1,2 +1,3 @@
-# releases
-Chevereto releases markdown docs repo
+# Chevereto Releases
+
+These are all the Chevereto releases made.
