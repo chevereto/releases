@@ -47,7 +47,7 @@ module.exports = {
         docsBranch: 'main',
         smoothScroll: true,
         editLinks: false,
-        lastUpdated: true,
+        lastUpdated: false,
         // algolia: {
         //     apiKey: '250992199b7863078c8399e2638107af',
         //     indexName: 'chevereto',
