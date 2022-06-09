@@ -1,6 +1,8 @@
 # Release 4.X
 
-Chevereto V4 modernize Chevereto with updated coding standards and better application architecture. Everything driven by our own-made [Chevere](https://chevere.org) framework.
+![logo](../src/4.X/logo.svg)
+
+Chevereto V4 is a major quality leap, a complete modernization of Chevereto with updated coding standards and better application architecture. Everything driven by our own-made [Chevere](https://chevere.org) framework.
 
 This release adds user-based API and turns Chevereto into a headless CMS making it usable in even more application layers and for a broad use-case.
 
