@@ -1,5 +1,6 @@
 <?php
 return [
+    '4.0.0.md',
     '4.0.0-beta.11.md',
     '4.0.0-beta.10.md',
     '4.0.0.beta.9.md',
