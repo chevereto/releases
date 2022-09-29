@@ -38,7 +38,16 @@ module.exports = {
         ['meta', {
             name: 'msapplication-TileColor',
             content: '#000000'
-        }]
+        }],
+        ['script', {
+            async: true,
+            src: 'https://www.googletagmanager.com/gtag/js?id=G-B97HXWGMEB',
+        }],
+        ['script', {},
+            [
+                "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-B97HXWGMEB');",
+            ],
+        ],
     ],
     themeConfig: {
         logo: '/logo.svg',
@@ -48,17 +57,5 @@ module.exports = {
         smoothScroll: true,
         editLinks: false,
         lastUpdated: false,
-        // algolia: {
-        //     apiKey: '250992199b7863078c8399e2638107af',
-        //     indexName: 'chevereto',
-        // }
     },
-    plugins: [
-        // [
-        //     '@vuepress/google-analytics',
-        //     {
-        //     'ga': 'UA-25384365-3'
-        //     }
-        // ]
-    ]
 };
