@@ -6,26 +6,16 @@ Chevereto V4 is a major quality leap, a complete modernization of Chevereto with
 
 This release adds user-based API and turns Chevereto into a headless CMS making it usable in even more application layers and for a broad use-case.
 
-## Releases
+## Video
 
-### Confirmed releases
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item m-0" src="https://www.youtube.com/embed/C-AZVuMEFMg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-Following releases have been announced.
+## Screens
 
-* [V4.0](https://chevereto.com/community/threads/chevereto-v4-0-macanudo-announcement.13188/) (macanudo)
-* [V4.1](https://chevereto.com/community/threads/chevereto-v4-1-supremo-announcement.13221/) (supremo)
+![Home](../src/4.X/4.0/home.jpg "Home")
 
-### Expected releases
+![Explore](../src/4.X/4.0/listing-actions-zoom.jpg "Explore")
 
-Note: Following releases haven't been announced yet.
-
-* V4.2 (pulento)
-* V4.3 (bacan)
-* V4.4 (magnifico)
-* V4.5 (superior)
-
-## Learn more
-
-* [Chevereto Macanudo](https://blog.chevereto.com/chevereto-macanudo/)
-* [Chevereto V4 FAQ](https://blog.chevereto.com/chevereto-v4-faq/)
-* [Hello, Chevereto V4](https://blog.chevereto.com/hello-chevereto-v4/)
+![Modal](../src/4.X/4.0/modal-image.jpg "Modal")
