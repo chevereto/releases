@@ -14,7 +14,7 @@ This release adds user-based API and turns Chevereto into a headless CMS making 
 
 ## Screens
 
-![Home](../src/4.X/4.0/home.jpg "Home")
+![User](../src/4.X/4.0/user-profile.jpeg "User profile")
 
 ![Explore](../src/4.X/4.0/listing-actions-zoom.jpg "Explore")
 
