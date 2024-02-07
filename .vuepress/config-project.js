@@ -45,6 +45,7 @@ module.exports = {
         ],
     ],
     themeConfig: {
+        logo: '/logo.svg',
         pwa: false,
         // repo: 'chevereto/chevereto',
         docsRepo: 'chevereto/releases',
