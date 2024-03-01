@@ -6,7 +6,23 @@ Chevereto V4 is a major quality leap, a complete modernization of Chevereto with
 
 This release adds user-based API and turns Chevereto into a headless CMS making it usable in even more application layers and for a broad use-case.
 
-## Video
+## Videos
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item m-0" src="https://www.youtube.com/embed/vbV_u1Aw1XA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item m-0" src="https://www.youtube.com/embed/ClF4uCbYKdA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item m-0" src="https://www.youtube.com/embed/TirAHdfEOR8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item m-0" src="https://www.youtube.com/embed/ytw2Ep1Xm1A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item m-0" src="https://www.youtube.com/embed/C-AZVuMEFMg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
