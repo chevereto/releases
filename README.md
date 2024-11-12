@@ -1,16 +1,16 @@
 ---
 home: true
 heroImage: /logo.svg
-heroText: Chevereto Releases
-tagline: All Chevereto Software releases
+heroText: Chevereto releases
+tagline: All Chevereto software releases
 actionText: Latest →
 actionLink: /4.X/
 footer: Chevereto's release archive
 ---
 
-# 🎉 Releases
+# Chevereto release archive
 
-Welcome to Chevereto Releases. This documentation covers all the software packages public released for Chevereto.
+Welcome to Chevereto release archive. This documentation covers all the software packages public released by Chevereto.
 
 ## Links
 
