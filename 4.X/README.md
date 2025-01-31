@@ -8,21 +8,37 @@ This release adds user-based API and turns Chevereto into a headless CMS making 
 
 ## Videos
 
+2024-12-24
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item m-0" src="https://www.youtube.com/embed/8o0KnTmAJTE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+2023-03-01
+
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item m-0" src="https://www.youtube.com/embed/vbV_u1Aw1XA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+2023-02-02
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item m-0" src="https://www.youtube.com/embed/ClF4uCbYKdA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+2023-01-10
+
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item m-0" src="https://www.youtube.com/embed/TirAHdfEOR8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+2022-10-11
+
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item m-0" src="https://www.youtube.com/embed/ytw2Ep1Xm1A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+2022-04-25
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item m-0" src="https://www.youtube.com/embed/C-AZVuMEFMg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
