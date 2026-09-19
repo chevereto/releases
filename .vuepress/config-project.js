@@ -47,11 +47,17 @@ module.exports = {
     themeConfig: {
         logo: '/logo.svg',
         pwa: false,
-        // repo: 'chevereto/chevereto',
         docsRepo: 'chevereto/releases',
         docsBranch: 'main',
-        smoothScroll: true,
+        smoothScroll: false,
         editLinks: false,
-        lastUpdated: false,
+        lastUpdated: true,
+        sidebarDepth: 3,
+        searchPlaceholder: 'Search',
+        // algolia: {
+        //     apiKey: '49544d26dbc3a0d69593dac1d83f8ab1',
+        //     indexName: 'chevereto-releases',
+        //     appId: 'DA09ED37YY',
+        // },
     },
 };
