@@ -50,7 +50,7 @@ module.exports = {
         docsRepo: 'chevereto/releases',
         docsBranch: 'main',
         smoothScroll: false,
-        editLinks: false,
+        editLinks: true,
         lastUpdated: true,
         sidebarDepth: 3,
         searchPlaceholder: 'Search',
